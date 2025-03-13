@@ -121,7 +121,7 @@ console.log(URL)
 ```
 ## Example (Twitter)
 ```js
-const { twitterdown } = require("ranq-videos-downloader")
+const { twitterdown } = require("rana-videos-downloader")
 let URL = await twitterdown("https://twitter.com/TeamAbhiSha/status/1743351410761019794?t=vms8wxcU0mQuhVxwGCHjFw&s=19")
 console.log(URL)
 ```
