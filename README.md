@@ -38,7 +38,7 @@ console.log(URL)
 ```
 {
     "developer": "MOHAMMAD RANA",
-    "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
+    "devfb": "https://www.facebook.com/profile.php?id=100063487970328",
     "devwp": "wa.me/+8801988686406",
     "status": true,
     "data": [
@@ -71,7 +71,7 @@ console.log(URL)
 ```
 ## Instagram Usage 
 ```js
-const {instagram} = require("ranq-videos-downloader");
+const {instagram} = require("rana-videos-downloader");
  
 const link = "https://www.instagram.com/p/DAxzjkAyWOm/?igsh=MTZ5eThrMXpteTFpOA==" //past video link
  
@@ -83,7 +83,7 @@ const link = "https://www.instagram.com/p/DAxzjkAyWOm/?igsh=MTZ5eThrMXpteTFpOA==
 ```
 ## Example (TikTok)
 ```js
-const { tikdown } = require("ranq-videos-downloader")
+const { tikdown } = require("rana-videos-downloader")
 let URL = await tikdown("https://vt.tiktok.com/ZSNvs6h6o/")
 console.log(URL)
 ```
@@ -91,7 +91,7 @@ console.log(URL)
 ```
 {
     "developer": "MOHAMMAD RANA",
-    "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
+    "devfb": "https://www.facebook.com/profile.php?id=100063487970328",
     "devwp": "wa.me/+8801988686406",
     "status": true,
     "data": {
@@ -129,7 +129,7 @@ console.log(URL)
 ```
 {
     "developer": "MOHAMMAD RANA",
-    "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
+    "devfb": "https://www.facebook.com/profile.php?id=100063487970328",
     "devwp": "wa.me/+8801988686406",
     "status": true,
     "data": {
@@ -155,7 +155,7 @@ fbdown2(link, key).then(data => {
 ```
 {
     "developer": "MOHAMMAD RANA",
-    "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
+    "devfb": "https://www.facebook.com/profile.php?id=100063487970328",
     "devwp": "wa.me/+8801988686406",
     "status": true,
     "media": {
@@ -199,7 +199,7 @@ capcut(url).then(data => {
 ```
 ## Usage Likee 
 ```js
-const { likee} = require("ranq-videos-downloader");
+const { likee} = require("rana-videos-downloader");
  
  const url = "link" // past url
 likee(url).then(data => { 
@@ -301,7 +301,7 @@ const url = 'url' // past url
 ```
 {
     "developer": "MOHAMMAD RANA",
-    "devfb": "https://www.facebook.com/profile.php?id=100000959749712",
+    "devfb": "https://www.facebook.com/profile.php?id=100063487970328",
     "devwp": "wa.me/+8801988686406",
     "status": true,
     "media": {
@@ -315,7 +315,7 @@ const url = 'url' // past url
  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/+8801988686406)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/XAICO.RANA)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/XAICO.RANA)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/100063487970328)
 [![Github](https://img.shields.io/badge/Github-MrDarkYTgreen?style=for-the-badge&logo=github)](https://github.com/TOXIC-RANA)
  
  
