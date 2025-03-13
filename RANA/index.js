@@ -1,6 +1,6 @@
 const axios = require('axios');
  
-const apiBaseUrl = 'https://nayan-video-downloader.vercel.app/';
+const apiBaseUrl = 'https://rana-video-downloader.vercel.app/';
  
 module.exports = {
   ndown: createRequest('ndown'),
